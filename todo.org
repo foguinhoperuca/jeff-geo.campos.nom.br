@@ -1,0 +1,14 @@
+* Infra
+** TODO Jekyll
+** TODO deploy on github pages
+** DONE DNS
+* Content
+** Nossa História
+** Local Casamento
+** Lista de Presentes
+** Mural
+** terminal
+** social network
+* Theme
+** TODO Poole
+*** TODO Hyde
