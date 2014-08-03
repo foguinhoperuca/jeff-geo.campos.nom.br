@@ -1,14 +1,14 @@
 * Infra
-** TODO Jekyll
 ** TODO deploy on github pages
+** DONE Jekyll
 ** DONE DNS
 * Content
-** Nossa História
-** Local Casamento
-** Lista de Presentes
-** Mural
-** terminal
-** social network
+** TODO Nossa História
+** TODO Local Casamento
+** TODO Lista de Presentes
+** TODO Mural
+** TODO social network
+** TODO terminal
 * Theme
-** TODO Poole
-*** TODO Hyde
+** DONE Hyde
+** TODO Incrementar tema atual
