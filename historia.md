@@ -1,8 +1,10 @@
 ---
-layout: default
-title: Timeline
+layout: page
+title: Nossa Bela Hist&oacute;ria
 ---
-<h1>TIMELINE</h1>
+
+<h1>Nossa Hist&oacute;ria</h1>
+<p>Hist&oacute;ria Jefferson e geovana</p>
 <div id="timeline-embed"></div>
 <script type="text/javascript">
         var timeline_config = {
@@ -17,4 +19,3 @@ title: Timeline
         }
 </script>
 <script type="text/javascript" src="http://cdn.knightlab.com/libs/timeline/latest/js/storyjs-embed.js"></script>
-

@@ -1,5 +1,7 @@
 * Infra
-** TODO deploy on github pages
+** TODO github pages
+*** TODO Fix A register (DNS) - CNAME for naked domain
+*** DONE deploy
 ** DONE Jekyll
 ** DONE DNS
 * Content
