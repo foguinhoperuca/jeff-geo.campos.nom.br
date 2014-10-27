@@ -2,9 +2,6 @@
 layout: page
 title: Nossa Hist&oacute;ria
 ---
-
-<p>Hist&oacute;ria Jefferson e geovana</p>
-
 <div id="timeline-embed"></div>
 <script type="text/javascript">
         var timeline_config = {
