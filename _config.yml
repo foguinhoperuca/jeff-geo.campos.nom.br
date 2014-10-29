@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Jeff & Geo
-tagline:          'A Jekyll theme'
+tagline:          'Nosso Espaço na Web'
 description:      'Bem-vindos ao nosso site. Aqui vocês vão encontrar todas as informações sobre nós e nosso casamento.'
 url:              http://jeff-geo.campos.nom.br
 baseurl:          /
@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.0.1
+version:          0.0.2
 
 github:
   repo:           https://github.com/foguinhoperuca/jeff-geo.campos.nom.br
