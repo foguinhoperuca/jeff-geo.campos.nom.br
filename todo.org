@@ -14,3 +14,4 @@
 * Theme
 ** DONE Hyde
 ** TODO Incrementar tema atual
+** TODO Adaptar ao tema feito pelo Sammy para site
