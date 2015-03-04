@@ -1,17 +1,16 @@
-* Infra
-** TODO github pages
-*** TODO Fix A register (DNS) - CNAME for naked domain
-*** DONE deploy
-** DONE Jekyll
-** DONE DNS
 * Content
-** TODO Nossa História
-** TODO Local Casamento
+** TODO Nosso Casamento
+*** TODO Colocar as cotas
+*** DONE Conteúdo
 ** TODO Lista de Presentes
+*** TODO Havan
+** TODO Book
+*** TODO Ajustar tamanho das imagens
+*** DONE Página
 ** TODO Mural
 ** TODO social network
 ** TODO terminal
+** DONE Nossa História
 * Theme
-** DONE Hyde
 ** TODO Incrementar tema atual
 ** TODO Adaptar ao tema feito pelo Sammy para site
