@@ -3,7 +3,7 @@ layout: page
 title: Nosso Casamento
 ---
 <p>
-O nosso  casamento será feito em <strong>2x sem juros</strong>: a primeira será no dia 25/04/2015 às 09:00hrs no segundo cartório de registro civil, graças à emenda do feriado do dia 01/05/2015. A segunda parcela será no dia 02/05/2015, no bistrô Iris e Francisco onde realizaremos um <em>"petit comité"</em>.
+O nosso  casamento será feito em <strong>2x sem juros</strong>: a primeira será no dia 25/04/2015 às 09:00hrs no segundo cartório de registro civil, graças à emenda do feriado do dia 01/05/2015. A segunda parcela será no dia 02/05/2015 as 12h00, no bistrô Iris e Francisco onde realizaremos um <em>"petit comité"</em>.
 </p>
 
 ## O Almoço.
@@ -30,6 +30,10 @@ Alfaces variadas, tomate cereja e molho de mostarda.
 #### Bebidas.
 
 Serão servidas à vontade: água com ou sem gás, suco de laranja ou limão e refrigerante. As bebidas alcoólicas poderão ser adquiridas separadamente no bar.
+
+### Horário.
+
+O almoço está marcado para 12h00 em ponto.
 
 ### Como Chegar.
 
