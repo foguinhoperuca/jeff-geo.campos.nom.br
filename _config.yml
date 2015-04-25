@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+hylighter:         pygments
 
 # Permalinks
 permalink:        pretty
@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.0.3
+version:          0.0.4
 
 github:
   repo:           https://github.com/foguinhoperuca/jeff-geo.campos.nom.br
